@@ -1,1 +1,1 @@
-# pinkpaper-evm-contract
+# Pinkpaper EVM Crowdfunding Contracts
